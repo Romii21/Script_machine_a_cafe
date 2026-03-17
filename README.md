@@ -35,9 +35,9 @@
   - Si on a un gobelet (Oui/Non) avec une action suivant la réponse
   - Si on veut du sucre (Oui/Non) avec une action suivant la réponse
   - Afficher message qui résume la commande :
-  - La boisson
-  - La gestion du gobelet
-  - La gestion du sucre
+    - La boisson
+    - La gestion du gobelet
+    - La gestion du sucre
   - Gérer les erreurs de saisie (mauvaise réponse)
   - Afficher un message `Vous avez choisi <la boisson>. Bonne dégustation !`
   - Sortir du script
