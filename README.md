@@ -27,3 +27,19 @@
 
 ## Niveau 2
 
+- Consignes :
+  - Afficher un menu avec trois choix : café, thé, chocolat
+  - Choisir une boisson avec un chiffre (de 1 à 3 par exemple)
+  - Afficher le choix de la boisson
+  - Après le choix de la boisson, demander :
+  - Si on a un gobelet (Oui/Non) avec une action suivant la réponse
+  - Si on veut du sucre (Oui/Non) avec une action suivant la réponse
+  - Afficher message qui résume la commande :
+  - La boisson
+  - La gestion du gobelet
+  - La gestion du sucre
+  - Gérer les erreurs de saisie (mauvaise réponse)
+  - Afficher un message `Vous avez choisi <la boisson>. Bonne dégustation !`
+  - Sortir du script
+
+- [Script Bash](Ressources/Scripts/Bash/Niveau_2.sh)
