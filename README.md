@@ -21,7 +21,7 @@
   - Sortir du script
 
 - [Script Bash](Ressources/Scripts/Bash/Niveau_1.sh)
-- [Script PowerShell](Ressources/Scripts/Bash/Niveau_1.ps1)
+- [Script PowerShell](Ressources/Scripts/PowerShell/Niveau_1.ps1)
 
 ---
 
